@@ -37,7 +37,6 @@
                             <constraint firstItem="J0S-4w-Pcd" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="10" id="bBA-2A-Zag"/>
                             <constraint firstItem="J0S-4w-Pcd" firstAttribute="height" secondItem="cmd-Is-oAn" secondAttribute="height" id="bGW-xq-7ZL"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="J0S-4w-Pcd" secondAttribute="trailing" constant="10" id="dnH-Sa-uTX"/>
-                            <constraint firstItem="cmd-Is-oAn" firstAttribute="width" secondItem="J0S-4w-Pcd" secondAttribute="width" id="ngo-bO-xyp"/>
                         </constraints>
                     </view>
                 </viewController>
